@@ -1,0 +1,9 @@
+# Environemts
+./Environemts
+env 
+*.env
+
+
+#artifacts
+.*mlruns
+mlruns
