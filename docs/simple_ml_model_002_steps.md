@@ -255,4 +255,4 @@ In this lecture it has been shown that how we can log our model for every execut
         mlflow run . -P alpha=0.7 -P l1_ratio=0.4
         ```
 
-* source code for the above demo - [source code](https://github.com/iambalakrishnan/MLflow-Introduction/blob/main/mlflow-codebase/simple-ML-model-2)
+* source code for the above demo - [source code](https://github.com/iambalakrishnan/MLflow-Introduction/blob/main/mlflow-codebase/simple-ML-model-4)
