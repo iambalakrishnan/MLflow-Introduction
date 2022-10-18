@@ -11,7 +11,7 @@ MLflow is designed to put as few constraints as possible and make codebase writt
 
 
 ### MLflow Components
-<img src="https://github.com/iambalakrishnan/MLflow-Introduction/blob/main/docs/images/index.jpg"
+<img src="https://github.com/iambalakrishnan/MLflow-Introduction/blob/main/docs/images/index.jpg">
 
 
 ## Installation and first trial of MLflow
